@@ -1,0 +1,15 @@
+# VS Code 
+.vscode/ 
+!.vscode/settings.json 
+!.vscode/tasks.json 
+!.vscode/launch.json 
+ 
+# Compiled files 
+*.exe 
+*.out 
+*.o 
+*.obj 
+ 
+# Python 
+__pycache__/ 
+*.pyc 
