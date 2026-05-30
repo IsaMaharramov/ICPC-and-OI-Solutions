@@ -1,5 +1,9 @@
 # ICPC and OI Solutions
 
+![Language](https://img.shields.io/badge/Language-C%2B%2B-brightgreen.svg)
+![Category](https://img.shields.io/badge/Category-Competitive%20Programming-brightgreen)
+![Type](https://img.shields.io/badge/Type-Solutions-brightgreen)
+
 A collection of my competitive programming solutions, clean implementations, and practice materials for the **International Collegiate Programming Contest (ICPC)** and various **Olympiads in Informatics (OI)**.
 
 ## Repository Structure:
